@@ -81,4 +81,4 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="Screenshot-tweede-pagina.png" width="375px" alt="Een schreenshot van de Nature pagina">
+<img src="images/Screenshot-tweede-pagina.png" width="375px" alt="Een schreenshot van de Nature pagina">
