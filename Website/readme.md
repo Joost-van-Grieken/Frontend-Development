@@ -62,7 +62,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
-<img src="images/Breakdown-schets.svg" width="375px" alt="Een breakdown schets van de home pagina van Adobe.com">
+<img src="images/Breakdown-schets.jpg" width="375px" alt="Een breakdown schets van de home pagina van Adobe.com">
 
 
 
