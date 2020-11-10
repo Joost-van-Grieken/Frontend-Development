@@ -62,7 +62,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<img src="images/Breakdown-schets.svg" width="375px" alt="Een breakdown schets van de home pagina van Adobe.com">
 
 
 
@@ -77,8 +77,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/Screenshot-eerste-pagina.png" width="375px" alt="Homepage van Adobe.com">
+<img src="images/Screenshot-eerste-pagina.png" width="375px" alt="Een schreenshot van de homepage">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/Screenshot-tweede-pagina.png" width="375px" alt="Een schreenshot van de photoshop pagina van Adobe">
+<img src="images/Screenshot-tweede-pagina.png" width="375px" alt="Een schreenshot van de Nature pagina">
