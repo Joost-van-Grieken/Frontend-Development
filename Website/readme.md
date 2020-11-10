@@ -6,7 +6,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. https://unsplash.com
+1. https://www.adobe.com
 2. -bron 2-
 3. -...-
 
@@ -73,7 +73,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** responsive
 
-**Je opdracht:** https://unsplash.com
+**Je opdracht:** https://www.adobe.com
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
