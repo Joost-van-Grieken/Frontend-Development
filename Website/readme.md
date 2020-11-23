@@ -7,8 +7,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. https://www.adobe.com
-2. -bron 2-
-3. -...-
+2. W3schools.com
+3. https://css-tricks.com/text-blocks-over-image/
 
 
 

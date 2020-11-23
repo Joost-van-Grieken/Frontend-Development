@@ -16,36 +16,44 @@ body {
   font-size: 1em;
 }
 
-ul {
-  display: flex;
-  width: 100%;
-  height: 60px;
-  list-style: none;
-  padding: 0px 20px;
-}
+h2 {font-size: 2.625em;}
+h3 {font-size: 2em;}
+h4 {font-size: 1.5em;}
+p {font-size: 1.25em;}
 
-li {
+header {
+  padding: 1em;
   background-color: white;
 }
 
-/* help */
-li:nth-of-type(1) {
-
-}
-/* help */
-
-li img {
-  width: 100%;
-  height: 21px;
+ul:nth-of-type(1) {
+  display: flex;
+  justify-content: space-between;
 }
 
-header li:nth-of-type(3) {
-  float: right;
+ul:nth-of-type(1) li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul:nth-of-type(1) li img {
+  height: 25px;
 }
 
 img {
   width: 100%;
-  height: auto;
+}
+
+ul:nth-of-type(2) {
+  display: flex;
+  padding-bottom: 1em;
+}
+
+ul:nth-of-type(2) li {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
 }
 
 section {
@@ -54,12 +62,10 @@ section {
 
 section h2 {
   padding: 50px 0px 30px 0px;
-  font-size: 2.625em;
 }
 
 section p {
   padding: 0px 0px 30px 0px;
-  font-size: 1.25em;
 }
 
 section button {
@@ -73,22 +79,37 @@ section button {
   font-weight: bold;
 }
 
-section a {
-  display: flex;
-  margin: 20px 0px;
-}
-
 section h4 {
-  font-size: 1.5em;
   text-align: center;
   margin-top: 40px;
 }
 
-section ul li a {
-  text-align: center;
-  margin-right: 20px;
+li .afbeelding {
+  background-image: url("images/img-1.png");
+  display: absolute;
+  height: 60px;
 }
 
-h3 {
-  font-size: 2em;
+/* main ul:nth-of-type(1) {
+  display: flex;
+  height: 100%;
 }
+
+main ul:nth-of-type(1) li {
+  background-image: url("images/img-1.png");
+}
+
+main ul:nth-of-type(1) h3 {
+  position: absolute;
+} */
+
+/* ul:nth-of-type(3) {
+  display: flex;
+  padding-bottom: 1em;
+}
+
+ul:nth-of-type(3) li {
+  display: flex;
+  justify-content: center;
+  background-image: url("images/img-1.png");
+} */
