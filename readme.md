@@ -8,7 +8,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Bronnenlijst
 1. https://www.adobe.com
 2. https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
-3. 
+3. https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
+4. https://stackoverflow.com/questions/35285467/how-to-make-a-line-below-text-without-text-decoration-underline
+5. https://stackoverflow.com/questions/2504071/how-do-i-combine-a-background-image-and-css3-gradient-on-the-same-element
+6. 
 
 
 
@@ -36,13 +39,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 1 (week 3)
 
-### Stand van zaken
+### Menu en header was goed gelukt. Er was wat feedback over hoe ik de main beter kon maken, namelijk: geen list gebruiken voor content maar een section. 
 
 -dit ging goed & dit was lastig-
 
-**Screenshot(s):**
-
--screenshot(s) van hoe ver je bent met korte uitleg-
+**<img src="images/Voortgang-1-screenshot.png" width="200px" alt="Screenshot van eerste versie">**
 
 ### Agenda voor meeting
 
@@ -56,7 +57,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+-Na de voortgang gesprek heb ik de feedback verwerkt en is het beter gelukt dan voorheen.-
 
 
 
