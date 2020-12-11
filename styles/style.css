@@ -38,6 +38,10 @@ a {
 }
 
 /* Header */
+ion-icon {
+  font-size: 1.5em;
+}
+
 header {
   padding: 1.1em;
   background-color: white;
@@ -65,18 +69,18 @@ img {
   width: 100%;
 }
 /* section */
-section ul {
+section ul:nth-of-type(1) {
   display: flex;
   padding: 0 0 1em;
 }
 
-section ul li {
+section ul:nth-of-type(1) li {
   display: flex;
   justify-content: center;
   flex-grow: 1;
 }
 
-section ul li a {
+section ul:nth-of-type(1) li a {
   text-decoration: none;
   font-size: .9em;
   color: rgb(73, 133, 226);
@@ -112,7 +116,7 @@ section h2 {
 
 /* main */
 main section {
-  margin: 0 2em 2em;
+  margin: 0 1.7em 2em;
   height: 28em;
   padding: 2em 2em 0;
 }
@@ -184,6 +188,10 @@ main section h4 {
   padding-bottom: 5px;
 }
 
+main section ul {
+  display: block;
+}
+
 main section ul li {
   display: block;
   align-items: left;
@@ -248,11 +256,76 @@ main section:nth-of-type(5) a {
   text-decoration: none;
 }
 
+/* main section 6 */
+main section:nth-of-type(6) {
+  margin: 0;
+}
+
+main section:nth-of-type(6) a {
+  display: block;
+  padding: 1em 0 0;
+}
+
 /* Footer */
 footer {
-    margin: 0 2em;
+  margin: 1.3em;
+}
+
+footer section {
+  padding: 1em 0;
+  border-top: 1px solid grey;
+  color: #505050;
+  font-size: .9em;
+}
+
+footer section:nth-of-type(4) {
+  border-bottom: 1px solid grey;
+  margin: 0 0 1em;
+}
+
+footer section ion-icon {
+  float: right;
+  padding: 0 1em;
+  font-size: 1em;
+}
+
+footer section ul {
+  display: none;
+}
+
+footer section ul li {
+  display: block;
+  padding: .3em 0;
+}
+
+footer section ul li a {
+  color: #4f4f4f;
+  font-family: "adobe clean light";
+}
+
+#checkbox {
+    opacity: 0;
+}
+#checkbox:checked + ul {
+    display: block;
+    padding: 1em 0;
 }
 
 footer nav {
-  display: block;
+  color: #4B4B4B;
+}
+
+footer nav p {
+  font-size: .6em;
+  padding: .5em 0;
+}
+
+footer nav ul {
+  list-style: none;
+  display: flex;
+}
+
+footer nav ul li {
+  font-size: .6em;
+  padding: 0 2em 0 0;
 }

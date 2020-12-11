@@ -11,7 +11,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 3. https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
 4. https://stackoverflow.com/questions/35285467/how-to-make-a-line-below-text-without-text-decoration-underline
 5. https://stackoverflow.com/questions/2504071/how-do-i-combine-a-background-image-and-css3-gradient-on-the-same-element
-6. 
+6. https://stackoverflow.com/questions/18786546/creating-drop-down-menu-on-click-css
+7. 
 
 
 
@@ -39,11 +40,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 1 (week 3)
 
-### Menu en header was goed gelukt. Er was wat feedback over hoe ik de main beter kon maken, namelijk: geen list gebruiken voor content maar een section. 
+Menu en header was goed gelukt. Er was wat feedback over hoe ik de main beter kon maken, namelijk: geen list gebruiken voor content maar een section. 
 
--dit ging goed & dit was lastig-
+De header is tot nu toe alles wat goed is gegaan.
 
-**<img src="images/Voortgang-1-screenshot.png" width="200px" alt="Screenshot van eerste versie">**
+<img src="images/Voortgang-1-screenshot.png" width="200px" alt="Screenshot van eerste versie">
 
 ### Agenda voor meeting
 
@@ -57,7 +58,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Verslag van meeting
 
--Na de voortgang gesprek heb ik de feedback verwerkt en is het beter gelukt dan voorheen.-
+Na de voortgang gesprek heb ik de feedback verwerkt en is het beter gelukt dan voorheen.
 
 
 
