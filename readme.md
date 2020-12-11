@@ -34,7 +34,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+De voortgangsgesprek verliep soepel. Ik had wat kleine dingen waar ik tegenaan zat, namelijk; De footer daar had ik de meeste problemen mee (zie screenshot).
+De main Is argumenten gelukt. Er zitten nog wat kleine bugs, maar dat is wel op te lossen. 
+
+<img src="images/Voortgang-2-screenshot.png" width="200px" alt="Screenshot van eerste versie">
 
 
 
@@ -45,18 +48,6 @@ Menu en header was goed gelukt. Er was wat feedback over hoe ik de main beter ko
 De header is tot nu toe alles wat goed is gegaan.
 
 <img src="images/Voortgang-1-screenshot.png" width="200px" alt="Screenshot van eerste versie">
-
-### Agenda voor meeting
-
--samen met je groepje opstellen-
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-### Verslag van meeting
 
 Na de voortgang gesprek heb ik de feedback verwerkt en is het beter gelukt dan voorheen.
 
