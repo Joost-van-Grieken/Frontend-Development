@@ -12,7 +12,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 4. https://stackoverflow.com/questions/35285467/how-to-make-a-line-below-text-without-text-decoration-underline
 5. https://stackoverflow.com/questions/2504071/how-do-i-combine-a-background-image-and-css3-gradient-on-the-same-element
 6. https://stackoverflow.com/questions/18786546/creating-drop-down-menu-on-click-css
-7. 
+7. https://stackoverflow.com/questions/8195215/css-background-image-on-background-color
+8. 
 
 
 

@@ -1,0 +1,146 @@
+/* CSS Document */
+*, *::after, *::before {
+  box-sizing:border-box;
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "adobe clean regular";
+  src: url(../font/AdobeClean-Regular.woff2);
+}
+
+@font-face {
+  font-family: "adobe clean light";
+  src: url(../font/AdobeClean-Light.woff2);
+}
+
+@font-face {
+  font-family: "adobe clean bold";
+  src: url(../font/AdobeClean-bold.woff2);
+}
+
+body {
+  font-size: 1em;
+  font-family: "adobe clean regular";
+}
+
+h1 {font-size: 2.5em;}
+h2 {font-size: 1em;}
+h3 {font-size: 1.5em;}
+strong {
+  font-size: 1em;
+  text-transform: uppercase;
+}
+a {
+  font-size: .8em;
+  font-family: "adobe clean bold";
+}
+
+/* Header */
+ion-icon {
+  font-size: 1.5em;
+}
+
+header {
+  margin: 1.1em;
+  background-color: white;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+header nav a {
+  display: block;
+  font-size: .9em;
+  font-family: "adobe clean light";
+  color: black;
+  text-decoration: none;
+}
+
+header img {
+  height: 23px;
+}
+
+/* header dropdown */
+section:nth-of-type(1) {
+  align-items: center;
+  font-size: .9em;
+}
+
+section ion-icon {
+  float: right;
+  padding: 0 1em;
+  font-size: 1em;
+}
+
+section ul {
+  display: none;
+}
+
+section ul li {
+  display: block;
+  padding: .3em 0;
+}
+
+section ul li a {
+  color: #4f4f4f;
+  font-family: "adobe clean light";
+  text-decoration: none;
+}
+
+#checkbox {
+    opacity: 0;
+}
+#checkbox:checked + ul {
+    display: block;
+    padding: 1em 0;
+}
+
+header section:nth-of-type(2) {
+  padding: 0 3em;
+  background-image: url('../images/img-2.1.jpeg');
+  height: 30em;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-color: rgb(28, 10, 27);
+}
+
+header section h1 {
+  color: white;
+}
+
+section button {
+  border-color: #0d66d0;
+  background-color: #0d66d0;
+  color: white;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 16px;
+  padding: 7px 14px;
+  font-weight: bold;
+  justify-content: center;
+}
+
+section button:nth-of-type(1) {
+  border-color: white;
+  background: transparent;
+  color: white;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 16px;
+  padding: 7px 14px;
+  font-weight: bold;
+  justify-content: center;
+}
+
+header p {
+  color: white;
+}
+
+header strong {
+  color: white;
+  display: flex;
+}
