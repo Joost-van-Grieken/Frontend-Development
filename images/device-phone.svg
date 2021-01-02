@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="24" id="S_DevicePhone_24_N" viewBox="0 0 24 24" width="24">
+  <defs>
+    <style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style>
+  </defs>
+  <path class="fill" d="M16,1H7A2,2,0,0,0,5,3V21a2,2,0,0,0,2,2h9a2,2,0,0,0,2-2V3A2,2,0,0,0,16,1ZM10.5,2h2a.52.52,0,0,1,.5.5.521.521,0,0,1-.5.5h-2a.5.5,0,0,1,0-1Zm1,20.75a1.25,1.25,0,1,1,1.25-1.25A1.25,1.25,0,0,1,11.5,22.75ZM16,20H7V4h9Z" />
+  </svg>

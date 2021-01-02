@@ -13,7 +13,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 5. https://stackoverflow.com/questions/2504071/how-do-i-combine-a-background-image-and-css3-gradient-on-the-same-element
 6. https://stackoverflow.com/questions/18786546/creating-drop-down-menu-on-click-css
 7. https://stackoverflow.com/questions/8195215/css-background-image-on-background-color
-8. 
+8. https://www.w3.org/Style/Examples/007/center.en.html
+9. https://www.w3schools.com/html/html5_semantic_elements.asp
+10.
 
 
 
