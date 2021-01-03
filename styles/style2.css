@@ -143,6 +143,7 @@ article:nth-of-type(1) {
   height: 34em;
   background-repeat: no-repeat;
   background-position: top;
+  background-size: cover;
 }
 
 article section:nth-of-type(2) {

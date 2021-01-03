@@ -15,7 +15,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 7. https://stackoverflow.com/questions/8195215/css-background-image-on-background-color
 8. https://www.w3.org/Style/Examples/007/center.en.html
 9. https://www.w3schools.com/html/html5_semantic_elements.asp
-10.
 
 
 
@@ -31,8 +30,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Ik had veel punten wat ik niet snapte, maar toch zelf wilden uitvogelen (zoals de screenshot hieronder). Robert gaf kleine tips waar ik niet aan had gedacht om de site beter te maken. Er moet nog veel gedaan worden, met de vakantie ertussen moet het wel lukken.
 
+<img src="images/Voortgang-3-screenshot.png" width="200px" alt="Screenshot van eerste versie">
 
 
 ## Voortgang 2 (week 5)
